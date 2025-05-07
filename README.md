@@ -1,4 +1,4 @@
-# HTML & CSS Template One
+# HTML & CSS Template One (Leon)
 
 A practical HTML & CSS landing page project built by following a tutorial – great for front-end practice.
 
