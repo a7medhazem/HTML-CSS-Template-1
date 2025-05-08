@@ -4,7 +4,7 @@ A practical HTML & CSS landing page project built by following a tutorial – gr
 
 ## 📺 Live Demo
 
-[🔗 View the Demo](https://a7medhazem.github.io/HTML_and_CSS_Template_One/)
+[🔗 View the Demo](https://a7medhazem.github.io/HTML-CSS-Template-1/)
 
 ## 🛠️ Technologies Used
 
